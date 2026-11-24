@@ -3,15 +3,7 @@
 
 
 ## Project Overview/Description
-- Specific: We aim to develop a fun, free, and easy to access Python program that revamps the classic game of “Rock, Paper, Scissors” by widening the character selection. For example, the addition of a shield, tank, bomb, and more, each with its custom rules and special abilities. Our program also aims to have an easy to navigate interface that makes it more enjoyable overall.
-
-- Measurable: Success is measured by having at least 5 playable characters, complete win/loss/tie logic for every matchup, and running 10 error-free test games. We will also ask 10 people for their feedback about the game.
-
-- Achievable: The project uses basic Python concepts (loops, conditionals, user input, and the random module), making it realistic for a solo beginner-to-intermediate coding project.
-
-- Relevant: Transforms a classic and modernizes it into a highly engaging and replayable game enjoyable for people of all ages.
-
-- Time-Bound: Our program should be ready and available to try and play by the end of the fourth quarter.
+This will be a simple python program to cure your boredom. Now in our opinion, Rock, Paper, Scissors is VERY very boring on its own. But what if we added a twist? This program will add spice and fun into the original game by adding more "characters".
 
 ## Features:
 - Multiple Game Modes: The program offers at least two distinct gameplay modes, including a standard Classic Mode and a specialized Lock-in Mode.
