@@ -8,8 +8,16 @@ This will be a simple python program to cure your boredom. Now in our opinion, R
 Rock Paper Scissors is a simple and common game that can become boring when played repeatedly with only three choices. Because of this, our group plans to create a Python program that adds more options and choices to make the game more fun and interesting. The program will allow players to choose from different options while still following the basic idea of Rock Paper Scissors. This will make the game more interactive and give players more variety when playing.
 
 ## Project Objectives:
-For our game, we decided to add a twist and to revamp the classic game "Rock, Paper, Scissors!" by widening the character selection and roster to refresh its gameplay all while maintaining the nostalgia you get from the original.
+- Specific: We aim to develop a fun, free, and easy to access Python program that revamps the classic game of “Rock, Paper, Scissors” by widening the character selection. For example, the addition of a shield, tank, bomb, and more, each with its custom rules and special abilities. Our program also aims to have an easy to navigate interface that makes it more enjoyable overall.
 
+- Measurable: Success is measured by having at least 5 playable characters, complete win/loss/tie logic for every matchup, and running 10 error-free test games. We will also ask 10 people for their feedback about the game.
+
+- Achievable: The project uses basic Python concepts (loops, conditionals, user input, and the random module), making it realistic for a solo beginner-to-intermediate coding project.
+
+- Relevant: Transforms a classic and modernizes it into a highly engaging and replayable game enjoyable for people of all ages.
+
+- Time-Bound: Our program should be ready and available to try and play by the end of the fourth quarter.
+  
 ## Features: 
 - Multiple Game Modes: The program offers at least two distinct gameplay modes, including a standard Classic Mode and a specialized Lock-in Mode.
 - Expanded Character Selection: Players can choose beyond the traditional gameplay of "Rock, Paper Scissors" by selecting the additional characters soon to be added, widening the roster.
