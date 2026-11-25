@@ -100,7 +100,8 @@ D. Exit
 Choice : D.
 
 ## Flowchart:
-<img width="2048" height="1683" alt="image" src="https://github.com/user-attachments/assets/ca1c337e-a917-4b09-8bda-06a75daa8c00" />
+<img width="1872" height="960" alt="image" src="https://github.com/user-attachments/assets/ec3932fd-eb5c-414f-b497-cb5efcf9d7b6" />
+
 
 
 ## Contributors
